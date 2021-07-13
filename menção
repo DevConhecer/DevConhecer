@@ -1,0 +1,7 @@
+para responder em celular: <@id do bot>
+para responder em pc: <@!id do bot>
+
+$nomention
+$description[Olá <@$authorID>, meu prefixo é: <prefixo do bot> use <prefix>help para obter ajuda!]
+$color[ffff]
+$reply
