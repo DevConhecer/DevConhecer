@@ -1,0 +1,7 @@
+$nomention
+$description[
+lembrete setado! para $message[1]]
+$editIn[$message[2];estou quase relembrando seu lembrete ⏰!]
+$editEmbedIn[$message[1];RELEMBRADO;Seu lembrete é:$message[3] $message[4] $message[5] $message[6] $message[7] $message[8] $message[9] $message[10] $message[11] $message[12] $message[13] $message[14] $message[15] $message[16] $message[17] $message[18] $message[19] $message[20] $message[21] $message[22] $message[23] $message[24] $message[25] $message[26] $message[27] $message[28] $message[29] $message[30] $message[31];use (PREFIX)-lembrete para definir um novo lembrete!;ffff](editado)
+[09:04]
+ATENÇÃO o máximo de tempo é 40 minutos
