@@ -8,3 +8,11 @@ $footerIcon[$authorAvatar]
  $addTimestamp
  
  
+
+
+
+
+
+---------------------------------
+DISCORD: https://discord.gg/ruU2sEj6AV
+---------------------------------
