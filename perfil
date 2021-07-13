@@ -1,0 +1,16 @@
+$description[
+ Seu Nome: $username
+
+ Sua Idade: $getUserVar[idade] 
+
+ Gênero: $getUserVar[genero]
+
+
+Sobre Mim: $getUserVar[sobremim]
+ 
+RG: $getUserVar[rg]
+]
+$footer[dúvidas use (PREFIX)-perfhelp]
+$color[$random[111111;999999]]
+$thumbnail[$authorAvatar]
+-------------------------------------------------------
