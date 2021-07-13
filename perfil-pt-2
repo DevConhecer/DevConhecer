@@ -1,0 +1,4 @@
+$nomention
+$setUserVar[idade;$message]
+SETADO!
+OBS  esse -> $setUserVar["idade"] <- tem que ser trocado conforme o comando de set! apenas o item que esta entre os " "
