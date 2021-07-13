@@ -1,0 +1,14 @@
+$nomention
+$title[Trabalho]
+$color[$random[1;999​]]
+$description[Você trabalhou como $randomText[lixeiro;youtuber;policial;hacker;prefeito;deputado;operador de caixa] ganhou $$random[0;1000]
+]$setUserVar[var;$sum[$getUserVar[var];$random[0;1000]]]
+$cooldown[30s;Você tem que esperar %time% para trabalhar de novo!]
+$footerIcon[$authorAvatar]
+$footer[Trabalho De $username]
+
+
+
+---------------------------------
+DISCORD: https://discord.gg/ruU2sEj6AV
+---------------------------------
