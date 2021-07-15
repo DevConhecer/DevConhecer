@@ -1,0 +1,22 @@
+LOG: COD:#$discriminator[$authorID]
+$nomention
+
+$onlyIf[$checkContains[$message;Nome dos comandos `sem o prefixo`;]==true;] 
+
+$useChannel[id do canal de logs]
+
+$title[**Log Global**]
+
+$description[ 
+**Usuário:** `$username[$authorID]#$discriminator[$authorID]`
+**ID:** `$authorID`
+**Comando:** `$message` 
+**Servidor:** `$serverName[$guildID]` 
+**Server ID:** `$guildID`
+**Canal:** `$channelName[$channelID]`
+]
+$color[ffff]
+
+$addTimestamp
+
+$footer[Sistema]
