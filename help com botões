@@ -1,0 +1,90 @@
+#1º parte do comando 
+
+$nomention
+$title[❓| Ajuda - Início]
+$description[
+**🔧| Configuração 
+
+💵| Economia 
+
+🛡| Moderação
+
+📎| Outros & Utilidades
+**
+]
+$footer[Ajuda | [] - Obrigatório / () Opcional]
+$color[e4ff00]
+$reply
+$addTimestamp
+$addButton[no;botão1;🔧;primary;no;]
+
+$addButton[no;botão2;💵;primary;no;]
+
+$addButton[no;botão3;🛡;primary;no;]
+
+$addButton[no;botão4;📎;primary;no;]
+
+$addButton[no;botão5;↩;primary;no;]
+
+#2º parte do comando
+- Crie os comandos listados a seguir:
+- Não escreva oque está entra ( ) parenteses
+
+trigger: $onInteraction[botão1] (PÁGINA 1)
+
+code: $nomention
+$title[Comandos de: ???]
+$description[
+??? faz ???
+]
+$footer[use <prefix>help]
+$color[ffff]
+
+trigger: $onInteraction[botão2] (PÁGINA 2)
+
+code: $nomention
+$title[Comandos de: ???]
+$description[
+??? faz ???
+]
+$footer[use <prefix>help]
+$color[ffff]
+
+trigger: $onInteraction[botão3] (PÁGINA 3)
+
+code: $nomention
+$title[Comandos de: ???]
+$description[
+??? faz ???
+]
+$footer[use <prefix>help]
+$color[ffff]
+
+trigger: $onInteraction[botão4] (PÁGINA 4)
+
+code: $nomention
+$title[Comandos de: ???]
+$description[
+??? faz ???
+]
+$footer[use <prefix>help]
+$color[ffff]
+
+trigger: $onInteraction[botão5] (PÁGINA VOLTAR)
+
+code: $nomention
+$title[❓| Ajuda - Início]
+$description[
+**🔧| Configuração 
+
+💵| Economia 
+
+🛡| Moderação
+
+📎| Outros & Utilidades
+**
+]
+$footer[Ajuda | [] - Obrigatório / () Opcional]
+$color[e4ff00]
+$reply
+$addTimestamp
