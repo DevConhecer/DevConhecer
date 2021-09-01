@@ -1,0 +1,2 @@
+$nomention
+$onlyIf[$checkContains[$message[1];work;pay;saldo]!=false;esse comando não existe!]
