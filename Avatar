@@ -1,0 +1,5 @@
+$nomention
+$title[`Avatar`]
+$image[$userAvatar[$mentioned[1;yes]]]
+$color[f3f7f2]
+$footer[por: $username !]
