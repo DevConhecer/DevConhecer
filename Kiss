@@ -1,0 +1,7 @@
+$nomention
+$onlyIf[$mentioned[1]!=;:x:| Você não mencionou ninguém!]
+$title[Beijo 😘]
+$description[
+<@$authorID> `Beijou` <@$mentioned[1]>**!**]
+$color[f3f72]
+$reply
